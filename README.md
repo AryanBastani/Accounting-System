@@ -1,5 +1,4 @@
-# Simple Accounting System Project
-
+# Accounting System
 ## Project Objective
 The goal of this project is to create an accounting system that allows users to manage *DL (Detail Ledger)* and *SL (Subsidiary Ledger)* entities and use them to issue accounting vouchers. The system includes full CRUD functionality for each entity, validation rules, and tests to ensure proper behavior.
 
